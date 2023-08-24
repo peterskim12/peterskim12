@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @peterskim12
 - 👀 I’m interested in bicycles, public transit, and public spaces.
-- 🌱 I’m currently learning Prisma and how to be a better father.
 - 💞️ I’m looking to collaborate on creating community in Philadelphia.
 - 📫 How to reach me: petedogg@gmail.com, @bromptonpete on Instagram
 
